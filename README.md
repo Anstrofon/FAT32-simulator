@@ -8,7 +8,7 @@ It is simplified version of FAT file system, skipped some details (such as FSInf
 +-----------------------+
 |   FAT1                |  
 +-----------------------+
-|   FAT2 (копія FAT1)   |
+|   FAT2 (copy       |
 +-----------------------+
 |   Data Region         | (clusters)
 +-----------------------+
